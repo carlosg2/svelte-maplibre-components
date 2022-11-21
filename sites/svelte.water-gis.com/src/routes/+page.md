@@ -9,7 +9,7 @@ author: Jin Igarashi
 
 ## Components
 
-### components for svelte with maplbre
+### components for svelte with maplibre
 
 |Component|Document|Github|
 |---|---|---|
